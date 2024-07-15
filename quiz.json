@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of political systems with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is democracy?",
+      "answers": ["Rule by people", "Rule by king", "Rule by few"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is autocracy?",
+      "answers": ["One ruler", "Many rulers", "No ruler"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is oligarchy?",
+      "answers": ["Rule by few", "Rule by many", "Rule by one"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a monarchy?",
+      "answers": ["King", "People", "Few"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is socialism?",
+      "answers": ["Shared", "Private", "Monarch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is communism?",
+      "answers": ["Classless", "Classed", "Monarch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a republic?",
+      "answers": ["Elected", "Inherited", "Appointed"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is federalism?",
+      "answers": ["Shared", "Central", "Local"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is anarchy?",
+      "answers": ["No rule", "One rule", "Few rule"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is theocracy?",
+      "answers": ["Religious", "People", "King"],
       "correctAnswerIndex": 0
     }
   ]
